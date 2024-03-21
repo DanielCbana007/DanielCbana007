@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Andres Cabana Trejos</h1>
-<h3 align="center">"Hello, I'm a front-end developer with aspirations to become full-stack, extremely curious, and eager to get better every day."</h3>
+<h3 align="center">"I'm a passionate developer in training, currently focused on front-end and with the ambition to encompass the full spectrum as a full-stack developer. My insatiable curiosity and commitment to professional growth drive me to constantly seek new opportunities to learn and perfect my skills."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
