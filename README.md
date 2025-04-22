@@ -35,6 +35,18 @@ I'm a Systems Engineering student, passionate about programming, logic, and ever
 
 ---
 
+### 🧱 Architectures & Methodologies I use
+
+- **Clean Architecture**: writing software that is easy to test, extend and maintain.  
+- **Hexagonal Architecture (Ports & Adapters)**: designing systems that are independent from frameworks and infrastructure.  
+- **Onion Architecture**: focusing on the core domain logic, with clear separation between layers.  
+- **Layered Architecture**: organizing code in Controller → Service → Repository for better modularity and maintainability.  
+- **MVC (Model-View-Controller)**: separating concerns between data, user interface, and control logic.  
+- **Atomic Design**: building UI components from the ground up with atoms, molecules, organisms, templates, and pages.  
+- **Feature-Sliced Design**: structuring frontend apps using domain-focused layers like features, entities, shared, and widgets.
+
+---
+
 ### 🚀 What drives me
 
 - Projects that combine **creativity and technology**.
