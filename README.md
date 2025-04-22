@@ -1,10 +1,51 @@
-<h1 align="center">Hi 👋, I'm Daniel Andres Cabana Trejos</h1>
-<h3 align="center">"I'm a passionate developer in training, currently focused on front-end and with the ambition to encompass the full spectrum as a full-stack developer. My insatiable curiosity and commitment to professional growth drive me to constantly seek new opportunities to learn and perfect my skills."</h3>
+# 👋 Hi there! I'm Daniel Andrés Cabana Trejos
 
-<h3 align="left"align="center">Connect with me:</h3>
-<p align="left" align="center">
-<a href="linkedin.com/in/daniel-cabana-718013272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel andres cabana trejos" height="30" width="40" /></a>
-</p>
+I'm a Systems Engineering student, passionate about programming, logic, and everything that involves understanding how things work in order to improve them. I enjoy writing code that is clean, precise, and meaningful—always looking for the best way to solve a problem.
 
-<h3 align="left" align="center">Languages and Tools:</h3>
-<p align="left" align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 A bit about me
+
+| Description |
+|-------------|
+| I'm into web development, both **frontend** and **backend**. |
+| I like to understand every part of a system—not just to make it work, but to make it make sense. |
+| I love working in teams, sharing ideas, and learning from others. |
+| I'm drawn to challenges: complex projects, and learning new things every day. |
+
+---
+
+### ⚙️ Technologies I work with
+
+**Main stack:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+**Also experienced with:**
+
+
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+ ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+ ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+---
+
+### 🚀 What drives me
+
+| What motivates me |
+|------------------|
+| - Projects that combine **creativity and technology**. |
+| - Environments where constant learning and improvement are part of the process. |
+| - Teams that value good communication, collaboration, and building meaningful solutions. |
+
+---
+
+If anything here resonates with you or your project, feel free to reach out. I’m ready to contribute!
